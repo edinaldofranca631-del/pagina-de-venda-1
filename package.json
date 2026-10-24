@@ -1,0 +1,17 @@
+{
+  "name": "servicos-ja",
+  "version": "1.0.0",
+  "description": "Página de divulgação moderna e responsiva para o Serviços Já",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve ."
+  },
+  "keywords": [
+    "servicos-ja",
+    "landing-page",
+    "profissionais",
+    "servicos"
+  ],
+  "author": "Serviços Já",
+  "license": "MIT"
+}
